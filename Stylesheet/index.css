@@ -1,0 +1,129 @@
+body{
+	width: 100%!important;
+	overflow-x: hidden;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.circles {
+	width: 2.5em;
+	vertical-align: middle;
+	margin-left: 1em;
+}
+
+.header-items {
+	font-size: 18px;
+	font-family: sans-serif;
+	margin-left: 0.5em;
+}
+
+.header {
+	margin-top: 2em;
+}
+
+.heart {
+	width: 23px;
+	margin-top: 1em;
+	margin-left: 15em;
+	cursor: pointer;
+}
+
+.red-price {
+	color: red;
+	font-size: 25px;
+	margin-left: 0.5em;
+}
+
+.old-price {
+	text-decoration: line-through;
+	color: gray;
+	display: block;
+	margin-top: 1.5em;
+	margin-left: 0.5em;
+}
+
+.product-item-1 {
+	border-right: 1px solid #D3D3D3;
+	border-bottom: 1px solid #D3D3D3;
+	width: 17em;
+	height: 27em;
+	margin-top: 1em;
+}
+
+.top-table {
+	display: flex;
+	margin-left: 1em;
+	padding: 0;
+}
+.current-price {
+	display: block;
+	font-size: 25px;
+	color: black;
+	margin-top: 1.5em;
+	margin-left: 0.5em;
+}
+
+.name {
+	width: 12em;
+	margin-left: 1em;
+	margin-top: 1em;
+}
+
+.small-img {
+	margin-top: 3.5em;
+}
+
+.bestsellers {
+	margin-top: 5em;
+}
+
+.star {
+	width: 2em;
+	vertical-align	: middle;
+	margin-left: 1em;
+}
+
+.bottom-table {
+	display: flex;
+	margin-left: 1em;
+	padding: 0;
+}
+
+.top-link {
+	position: fixed;
+	text-align: right;
+}
+
+.image {
+	width: 210px;
+	margin-left: 1em;
+}
+
+.very-small-image {
+	width: 240px;
+	margin-top: 5em;
+	margin-left: 1em;
+}
+
+.so-small-image {
+	width: 240px;
+	margin-top: 3em;
+}
+
+.product-item-2 {
+	border-right: 1px solid #D3D3D3;
+	border-bottom: 1px solid #D3D3D3;
+	width: 17em;
+	height: 25em;
+	margin-top: 1em;
+}
+
+.top-page img {
+	width: 2.5em;
+}
+
+.top-page{
+	position: fixed;
+	bottom: 0;
+	right: 5px;
+}
